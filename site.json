@@ -1,0 +1,36 @@
+{
+  "name": "Amritpal Singh",
+  "url": "https://amritpal.work/",
+  "description": "Fullstack Developer specializing in SaaS platforms, scalable web applications, backend architecture, and performance optimization.",
+  "jobTitle": "Fullstack Developer",
+  "location": {
+    "city": "Mumbai",
+    "country": "India"
+  },
+  "contact": {
+    "email": "amritpal@hotmail.co.in",
+    "phone": "+918108820448"
+  },
+  "skills": [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "ElysiaJS",
+    "PostgreSQL",
+    "Redis",
+    "Expo",
+    "AWS"
+  ],
+  "services": [
+    "Fullstack Web Development",
+    "SaaS Platform Architecture",
+    "Backend API Development",
+    "Performance Optimization",
+    "Scalable Application Design"
+  ],
+  "social": {
+    "github": "https://github.com/theAmritpal/",
+    "linkedin": "https://www.linkedin.com/in/amritpal-singh-a1818848/"
+  },
+  "availability": "Available for freelance projects, consulting, and full-time opportunities."
+}

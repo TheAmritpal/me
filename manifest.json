@@ -1,0 +1,24 @@
+{
+  "name": "Amritpal Singh - Fullstack Developer",
+  "short_name": "Amritpal.work",
+  "description": "Amritpal Singh is a Fullstack Developer specializing in SaaS platforms, scalable web applications, backend architecture, and performance optimization.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["portfolio", "developer", "technology"],
+  "lang": "en",
+  "dir": "ltr"
+}

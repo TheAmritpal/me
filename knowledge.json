@@ -1,0 +1,71 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://schema.org"
+  ],
+  "@id": "https://amritpal.work/#identity",
+  "@type": ["Person", "ProfessionalService"],
+  "identifier": "amritpal-singh-developer",
+  "name": "Amritpal Singh",
+  "alternateName": "Amritpal.work",
+  "givenName": "Amritpal",
+  "familyName": "Singh",
+  "jobTitle": "Fullstack Developer",
+  "description": "Fullstack Developer specializing in SaaS platforms, scalable web applications, backend architecture, and performance optimization.",
+  "url": "https://amritpal.work/",
+  "image": "https://amritpal.work/preview.png",
+  "email": "amritpal@hotmail.co.in",
+  "telephone": "+918108820448",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "19.2699",
+    "longitude": "72.8836"
+  },
+  "areaServed": "Worldwide",
+  "availableLanguage": ["English", "Hindi", "Punjabi"],
+  "knowsAbout": [
+    "Fullstack Web Development",
+    "SaaS Architecture",
+    "React",
+    "TypeScript",
+    "Node.js",
+    "PostgreSQL",
+    "Redis",
+    "AWS",
+    "API Development",
+    "Performance Optimization"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Fullstack Developer",
+    "occupationalCategory": "15-1254.00",
+    "skills": ["React", "TypeScript", "Node.js", "ElysiaJS", "PostgreSQL", "Redis", "Expo", "AWS"]
+  },
+  "sameAs": [
+    "https://github.com/theamritpal",
+    "https://www.linkedin.com/in/amritpal-singh-a1818848/"
+  ],
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Fullstack Web Development",
+      "description": "End-to-end web application development"
+    },
+    {
+      "@type": "Offer", 
+      "name": "SaaS Platform Development",
+      "description": "Complete software-as-a-service application development"
+    },
+    {
+      "@type": "Offer",
+      "name": "API Development",
+      "description": "REST and GraphQL API development"
+    }
+  ]
+}

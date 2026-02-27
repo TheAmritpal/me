@@ -1,0 +1,40 @@
+# amritpal.work
+
+> Personal portfolio of Amritpal Singh, a Fullstack Developer specializing in SaaS platforms, scalable web applications, backend architecture, and performance optimization.
+
+## About
+
+Amritpal Singh is a Fullstack Developer based in India, building scalable SaaS platforms and high-performance web applications using cutting-edge technologies. He delivers complete solutions from frontend UX to backend architecture.
+
+## Services
+
+- Fullstack Web Development
+- SaaS Platform Architecture
+- Backend API Development
+- Performance Optimization
+- Scalable Application Design
+- Modern Frontend Development
+
+## Tech Stack
+
+- **Frontend**: React, TypeScript
+- **Backend**: Node.js, ElysiaJS
+- **Databases**: PostgreSQL, Redis
+- **Mobile**: Expo
+- **Cloud**: AWS
+
+## Contact
+
+- **Email**: amritpal@hotmail.co.in
+- **Phone**: +91 8108820448
+- **Website**: https://amritpal.work/
+- **GitHub**: https://github.com/theAmritpal/
+- **LinkedIn**: https://www.linkedin.com/in/amritpal-singh-a1818848/
+
+## Location
+
+Mumbai, India
+
+## Availability
+
+Available for freelance projects, consulting, and full-time opportunities.

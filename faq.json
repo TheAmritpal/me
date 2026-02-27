@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What services does Amritpal Singh offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amritpal Singh offers fullstack web development, SaaS platform architecture, backend API development, performance optimization, and scalable application design services."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What technologies does Amritpal Singh work with?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amritpal Singh works with React, TypeScript, Node.js, ElysiaJS, PostgreSQL, Redis, Expo, and AWS for building scalable web applications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Amritpal Singh located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Amritpal Singh is located in Mumbai, India and is available for remote work globally."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I contact Amritpal Singh?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can contact Amritpal Singh via email at amritpal@hotmail.co.in or phone at +91 8108820448."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Amritpal Singh available for hire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Amritpal Singh is available for freelance projects, consulting work, and full-time opportunities."
+      }
+    }
+  ]
+}

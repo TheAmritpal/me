@@ -1,0 +1,17 @@
+/* TEAM */
+Developer: Amritpal Singh
+Role: Fullstack Developer
+Location: Mumbai, India
+Contact: amritpal@hotmail.co.in
+Website: https://amritpal.work/
+
+/* THANKS */
+Fonts: Inter (Google Fonts)
+Icons: Unicode / System
+
+/* SITE */
+Last update: 2026-02-27
+Language: English
+Standards: HTML5, CSS3
+Components: Vanilla JS
+Software: VS Code

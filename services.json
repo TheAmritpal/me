@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Web Development",
+  "provider": {
+    "@type": "Person",
+    "name": "Amritpal Singh",
+    "url": "https://amritpal.work/"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "Worldwide"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Development Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fullstack Web Development",
+          "description": "End-to-end web application development using modern technologies"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "SaaS Platform Development",
+          "description": "Complete software-as-a-service application development"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "API Development",
+          "description": "Design and implementation of scalable REST and GraphQL APIs"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Performance Optimization",
+          "description": "Application profiling and optimization for speed and efficiency"
+        }
+      }
+    ]
+  }
+}

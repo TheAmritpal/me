@@ -1,0 +1,37 @@
+# AI Crawler Directives for https://amritpal.work/
+# This file provides guidance for AI crawlers and LLM training
+
+User-agent: *
+Allow: /
+
+# Explicitly allow AI/ML crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# Sitemap and content locations
+Sitemap: https://amritpal.work/sitemap.xml
+Content-Location: https://amritpal.work/llms.txt

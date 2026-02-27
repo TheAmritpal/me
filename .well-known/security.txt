@@ -1,0 +1,4 @@
+Contact: amritpal@hotmail.co.in
+Expires: 2027-02-27T23:59:00.000Z
+Preferred-Languages: en
+Canonical: https://amritpal.work/.well-known/security.txt

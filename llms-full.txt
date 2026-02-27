@@ -1,0 +1,73 @@
+# amritpal.work - Full Context for LLMs
+
+## Entity Information
+
+**Name**: Amritpal Singh
+**Role**: Fullstack Developer, SaaS Architect, Performance Engineer
+**Location**: Mumbai, India
+**Website**: https://amritpal.work/
+**Email**: amritpal@hotmail.co.in
+**Phone**: +91 8108820448
+
+## Professional Summary
+
+Amritpal Singh is a fullstack developer specializing in building scalable SaaS platforms and high-performance web applications. He delivers end-to-end solutions covering frontend UX design to backend architecture and infrastructure.
+
+## Core Competencies
+
+### Frontend Development
+- React ecosystem (React, React Router, React Query)
+- TypeScript for type-safe applications
+- Modern CSS (CSS-in-JS, Tailwind, CSS Modules)
+- Responsive and accessible web design
+
+### Backend Development
+- Node.js runtime environment
+- ElysiaJS web framework
+- RESTful API design and implementation
+- GraphQL API development
+
+### Database & Caching
+- PostgreSQL for relational data
+- Redis for caching and session management
+- Database optimization and query tuning
+
+### Mobile Development
+- Expo framework for cross-platform mobile apps
+- React Native
+
+### Cloud & DevOps
+- AWS services (EC2, S3, Lambda, RDS)
+- Server deployment and configuration
+- CI/CD pipelines
+
+## Services Offered
+
+1. **SaaS Platform Development** - Complete software-as-a-service application development from concept to deployment
+2. **API Development** - Design and implementation of scalable REST and GraphQL APIs
+3. **Performance Optimization** - Application profiling and optimization for speed and efficiency
+4. **Fullstack Web Applications** - End-to-end web application development
+5. **Technical Consulting** - Architecture review and recommendations
+
+## Frequently Asked Questions
+
+**Q: What technologies does Amritpal work with?**
+A: React, TypeScript, Node.js, ElysiaJS, PostgreSQL, Redis, Expo, and AWS.
+
+**Q: Is Amritpal available for hire?**
+A: Yes, available for freelance projects, consulting, and full-time opportunities.
+
+**Q: Where is Amritpal located?**
+A: Mumbai, India. Available for remote work globally.
+
+**Q: How can I contact Amritpal?**
+A: Email at amritpal@hotmail.co.in or phone at +91 8108820448.
+
+## Social Profiles
+
+- GitHub: https://github.com/theAmritpal/
+- LinkedIn: https://www.linkedin.com/in/amritpal-singh-a1818848/
+
+## Content License
+
+All content on amritpal.work is owned by Amritpal Singh unless otherwise noted.
